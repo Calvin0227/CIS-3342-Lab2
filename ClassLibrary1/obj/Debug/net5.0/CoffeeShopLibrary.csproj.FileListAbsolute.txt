@@ -1,0 +1,12 @@
+C:\Users\Administrator\source\repos\Lab-2\ClassLibrary1\bin\Debug\net5.0\CoffeeShopLibrary.deps.json
+C:\Users\Administrator\source\repos\Lab-2\ClassLibrary1\bin\Debug\net5.0\CoffeeShopLibrary.dll
+C:\Users\Administrator\source\repos\Lab-2\ClassLibrary1\bin\Debug\net5.0\ref\CoffeeShopLibrary.dll
+C:\Users\Administrator\source\repos\Lab-2\ClassLibrary1\bin\Debug\net5.0\CoffeeShopLibrary.pdb
+C:\Users\Administrator\source\repos\Lab-2\ClassLibrary1\obj\Debug\net5.0\CoffeeShopLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\Lab-2\ClassLibrary1\obj\Debug\net5.0\CoffeeShopLibrary.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\Lab-2\ClassLibrary1\obj\Debug\net5.0\CoffeeShopLibrary.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\Lab-2\ClassLibrary1\obj\Debug\net5.0\CoffeeShopLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Lab-2\ClassLibrary1\obj\Debug\net5.0\CoffeeShopLibrary.dll
+C:\Users\Administrator\source\repos\Lab-2\ClassLibrary1\obj\Debug\net5.0\ref\CoffeeShopLibrary.dll
+C:\Users\Administrator\source\repos\Lab-2\ClassLibrary1\obj\Debug\net5.0\CoffeeShopLibrary.pdb
+C:\Users\Administrator\source\repos\Lab-2\ClassLibrary1\obj\Debug\net5.0\CoffeeShopLibrary.csproj.AssemblyReference.cache

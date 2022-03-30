@@ -1,0 +1,6 @@
+C:\Users\Administrator\source\repos\Lab-2\Utilities\bin\Release\Utilities.dll
+C:\Users\Administrator\source\repos\Lab-2\Utilities\bin\Release\Utilities.pdb
+C:\Users\Administrator\source\repos\Lab-2\Utilities\obj\Release\Utilities.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\Lab-2\Utilities\obj\Release\Utilities.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Lab-2\Utilities\obj\Release\Utilities.dll
+C:\Users\Administrator\source\repos\Lab-2\Utilities\obj\Release\Utilities.pdb
